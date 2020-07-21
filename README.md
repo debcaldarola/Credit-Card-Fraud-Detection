@@ -1,4 +1,4 @@
-# Credit-Card-Fraud-Detection
+# Credit Card Fraud Detection
 **Anomaly Detection** performed on **Credit Card Fraud Detection** dataset by Kaggle (https://www.kaggle.com/mlg-ulb/creditcardfraud).<br>
 <p style="text-align: center;">
 Nowadays, credit cards play a determinant role in many people's life. According to statistics, there are 2.8 Billion credit cards in use worldwide of which 1.06
